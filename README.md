@@ -1,9 +1,10 @@
 # \<myPage \/>
 
-const aboutMe = () => {<br>
-&emsp;return (<br>
-&emsp;&emsp;\<p\>👋 Hi, I’m @macgirl212. I'm all about making things look cool. I'm interested in front-end development, and I'm working on becoming a full-stack developer.\</p><br>
-&emsp;)<br>
+const aboutMe = {<br>
+&emsp;screenName: "macgirl212",<br>
+&emsp;specialty: "front-end development",<br>
+&emsp;emojiOfChoice: 👋,<br>
+&emsp;interests: Internal error: Not enough space...<br>
 }
 
 ## Skills and Aspirations
