@@ -1,4 +1,4 @@
-# \<myPage \/>
+# \<myPage\>
 
 const aboutMe = {<br>
 &emsp;screenName: "macgirl212",<br>
@@ -33,6 +33,8 @@ const aboutMe = {<br>
 
 ### How to reach me...
 That's still a work in progress, but in the meantime, feel free to check out my codepen. https://codepen.io/macgirl212
+
+# \<\/myPage\>
 
 <!---
 macgirl212/macgirl212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
