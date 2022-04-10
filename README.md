@@ -14,22 +14,23 @@ const aboutMe = {<br>
 - CSS
 - SCSS/SASS
 - Vanilla JavaScript
+- React
 
 ### I'm getting settled in...
-- React
 - D3
-
-### I'm still learning...
 - Node
 - Express
 - MongoDB and Mongoose
-- Swift
 - The MERN stack
+
+### I'm still learning...
+- Swift
 
 ### On my to-do list
 - TypeScript
 - Angular
 - Next
+- Python
 
 ### How to reach me...
 That's still a work in progress, but in the meantime, feel free to check out my codepen. https://codepen.io/macgirl212
