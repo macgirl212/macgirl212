@@ -25,6 +25,10 @@ const aboutMe = {<br>
 
 ### I'm still learning...
 - Swift
+- Mocha
+- Chai
+- Zombie
+- Pug
 
 ### On my to-do list
 - TypeScript
