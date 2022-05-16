@@ -4,7 +4,7 @@ const aboutMe = {<br>
 &emsp;screenName: "macgirl212",<br>
 &emsp;specialty: "front-end development",<br>
 &emsp;emojiOfChoice: 👋,<br>
-&emsp;interests: Internal error: Not enough space...<br>
+&emsp;interests: "too many to list"<br>
 }
 
 ## Skills and Aspirations
@@ -29,6 +29,7 @@ const aboutMe = {<br>
 - Chai
 - Zombie
 - Pug
+- Passport
 
 ### On my to-do list
 - TypeScript
