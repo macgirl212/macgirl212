@@ -2,7 +2,9 @@
 
 const aboutMe = {<br>
 &emsp;screenName: "macgirl212",<br>
-&emsp;specialty: "front-end development",<br>
+&emsp;specialty: "full stack development",<br>
+&emsp;favFrontEndLang: "CSS",<br>
+&emsp;favBackEndLang: "JavaScript",<br>
 &emsp;emojiOfChoice: 👋,<br>
 &emsp;interests: "too many to list"<br>
 }
@@ -15,18 +17,17 @@ const aboutMe = {<br>
 - SCSS/SASS
 - Vanilla JavaScript
 - React
+- MongoDB/Mongoose
 
 ### I'm getting settled in...
 - D3
 - Node
 - Express
-- MongoDB and Mongoose
-- The MERN stack
+- Mocha
+- Chai
 
 ### I'm still learning...
 - Swift
-- Mocha
-- Chai
 - Zombie
 - Pug
 - Passport
