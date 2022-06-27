@@ -37,6 +37,7 @@ const aboutMe = {<br>
 - Angular
 - Next
 - Python
+- Redis
 
 ### How to reach me...
 That's still a work in progress, but in the meantime, feel free to check out my codepen. https://codepen.io/macgirl212
