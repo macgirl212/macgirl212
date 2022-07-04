@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a couple of media-focused full-stack sites.**
 
-- 🌱 I’m currently learning **Swift with 100 Days of Swift and Python with freeCodeCamp.**
+- 🌱 I’m currently learning **Swift with 100 Days of Swift.**
 
 - 👯 I’m looking to collaborate on **anything JavaScript or CSS related.**
 
 - 💬 Ask me about **React and D3. I could help you with that.**
 
-- 🖊 Next on my to-do list are **TypeScript, Angular, NextJS, React Native, and Redis.**
+- 🖊 Next on my to-do list are **TypeScript, Angular, NextJS, Python, React Native, and Redis.**
 
 - ⚡ Fun fact: **I speak Spanish también.**
 
