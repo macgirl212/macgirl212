@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm macgirl212</h1>
 <h3 align="center">An up-and-coming full-stack developer</h3>
 
-- 🔭 I’m currently working on **a couple of media-focused MERN apps.**
+- 🔭 I’m currently working on **a  media-focused MERN app.**
 
 - 🌱 I’m currently learning **Swift with 100 Days of Swift.**
 
