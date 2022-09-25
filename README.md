@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.freecodecamp.org/fcc8b111930-a6c4-40bd-b1d9-348957a35399" target="blank"><img align="center" src="https://cdn.rawgit.com/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" alt="My freeCodeCamp profile" height="30" width="40" /></a>
 <a href="https://codepen.io/macgirl212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="macgirl212" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/macgirl212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="macgirl212" height="30" width="40" /></a>
 </p>
