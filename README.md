@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm macgirl212</h1>
 <h3 align="center">An up-and-coming full-stack developer</h3>
 
-- 🔭 I’m currently working on **a karaoke game using NextJS and a media-focused MERN app.**
+- 🔭 I’m currently working on **a karaoke game using NextJS and strengthening my Swift proficiency.**
 
-- 🌱 I’m currently learning **Swift with 100 Days of Swift and TypeScript with docs.**
+- 🌱 I’m currently learning **TypeScript.**
 
 - 👯 I’m looking to collaborate on **anything JavaScript or CSS related.**
 
 - 💬 Ask me about **React and D3. I could help you with that.**
 
-- 🖊 Next on my to-do list are **Angular, Python, React Native, and Redis.**
+- 🖊 Next on my to-do list are **SwiftUI, Angular, Python, React Native, and Redis.**
 
 - ⚡ Fun fact: **I speak Spanish también.**
 
