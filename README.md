@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a karaoke game using NextJS and strengthening my Swift proficiency.**
 
-- 🌱 I’m currently learning **TypeScript.**
+- 🌱 I’m currently learning **TypeScript and SwiftUI with 100 Days of SwiftUI.**
 
 - 👯 I’m looking to collaborate on **anything JavaScript or CSS related.**
 
