@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm macgirl212</h1>
 <h3 align="center">An up-and-coming full-stack developer</h3>
 
-- 🔭 I’m currently working on **a karaoke game using NextJS and strengthening my Swift proficiency.**
+- 🔭 I’m currently working on **strengthening my Swift proficiency.**
 
 - 🌱 I’m currently learning **TypeScript and SwiftUI with 100 Days of SwiftUI.**
 
