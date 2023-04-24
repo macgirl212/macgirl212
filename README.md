@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SwiftUI with 100 Days of SwiftUI.**
 
-- 👯 I’m looking to collaborate on **anything JavaScript or CSS related.**
+- 👯 I’m looking to collaborate on **anything JavaScript, CSS, or Swift related.**
 
 - 💬 Ask me about **React and D3. I could help you with that.**
 
