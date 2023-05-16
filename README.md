@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React and D3. I could help you with that.**
 
-- 🖊 Next on my to-do list are **Angular, Python, React Native, and Redis.**
+- 🖊 Next on my to-do list are **Angular, PHP, Python, React Native, and Redis.**
 
 - ⚡ Fun fact: **I speak Spanish también.**
 
