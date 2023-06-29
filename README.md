@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything JavaScript, CSS, or Swift related.**
 
-- 💬 Ask me about **React and D3. I could help you with that.**
+- 💬 Ask me about **React and Swift. I could help you with that.**
 
 - 🖊 Next on my to-do list are **Angular, PHP, Python, and React Native.**
 
