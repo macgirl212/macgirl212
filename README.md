@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **strengthening my Swift proficiency.**
 
-- 🌱 I just completed **100 Days of SwiftUI.**
+- 🌱 I currently learning **how to build Mac apps with SwiftUI.**
 
 - 👯 I’m looking to collaborate on **anything JavaScript, CSS, or Swift related.**
 
