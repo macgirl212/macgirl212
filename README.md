@@ -5,7 +5,7 @@
 
 - 🌱 I currently learning **how to build Mac apps with SwiftUI.**
 
-- 👯 I’m looking to collaborate on **anything JavaScript, CSS, or Swift related.**
+- 👯 I’m looking to collaborate on **anything TypeScript, CSS, or Swift related.**
 
 - 💬 Ask me about **React and Swift. I could help you with that.**
 
